@@ -1,1 +1,10 @@
-
+payload:
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,netflav1.com
+  - DOMAIN-SUFFIX,dvsdvsdvsdva.com
+  - DOMAIN-SUFFIX,segment.io
+  - DOMAIN-SUFFIX,themoviedb.org
+  - DOMAIN-SUFFIX,thetvdb.com
+  - DOMAIN-SUFFIX,emby.media
+  - DOMAIN-SUFFIX,order.yizhihongxing.org
+  - DOMAIN-SUFFIX,dlercloud.com
