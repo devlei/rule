@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,poe.com
   - DOMAIN-SUFFIX,play.vercel.ai
   - DOMAIN-SUFFIX,chatbot.theb.ai
