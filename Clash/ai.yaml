@@ -1,2 +1,9 @@
 payload:
-  - "+.perplexity.ai"
+  - DOMAIN-SUFFIX,x.ai
+  - DOMAIN-SUFFIX,poe.com
+  - DOMAIN-SUFFIX,trae.ai
+  - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,poecdn.net
+  - DOMAIN-SUFFIX,perplexity.ai
+  - DOMAIN-SUFFIX,openrouter.ai
+  - DOMAIN-SUFFIX,huggingface.co
