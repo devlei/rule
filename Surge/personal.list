@@ -52,3 +52,4 @@ DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,vcb-s.com
 DOMAIN-SUFFIX,imagedelivery.net
 DOMAIN-SUFFIX,linux.do
+DOMAIN-WILDCARD,reader.*.xyz
