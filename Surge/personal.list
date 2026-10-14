@@ -65,3 +65,4 @@ DOMAIN-SUFFIX,s.tutu.pm
 DOMAIN-SUFFIX,hgeme.com
 DOMAIN-SUFFIX,immtele.com
 DOMAIN-WILDCARD,reader.*.xyz
+DOMAIN-WILDCARD,img3.*.xyz
