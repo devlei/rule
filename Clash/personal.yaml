@@ -65,6 +65,7 @@ payload:
   - DOMAIN-SUFFIX,s.tutu.pm
   - DOMAIN-SUFFIX,hgeme.com
   - DOMAIN-SUFFIX,immtele.com
+  - DOMAIN-SUFFIX,r18cg.top
   - DOMAIN-SUFFIX,img3.960173.xyz
   - DOMAIN-WILDCARD,reader.*.xyz
   - DOMAIN-WILDCARD,img3.*.xyz
